@@ -1,5 +1,3 @@
-// not solved yet
-
 #include <iostream>
 #include <vector>
 #include <map>
